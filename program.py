@@ -1,8 +1,9 @@
 # i think i messed up in a couple lines, can yall fix it for me?
 #fixed.
-favoriteAnimal = input("What's your favorite animal?")
+favoriteAnimal = input("Enter your favorite animal: ")
+favoriteAnimal = favoriteAnimal.lower()
 
-if favoriteAnimal.lower != "cat":
+if favoriteAnimal != "cat":
     print("wow so you hate cats?")
     print("that's not very nice, bro.")
 
