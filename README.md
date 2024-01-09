@@ -1,3 +1,3 @@
-# EXERCISE 1
+# What this program does
 
-listen for the instructions!
+Gets a users favorite animal and calculates if they hate cats.
