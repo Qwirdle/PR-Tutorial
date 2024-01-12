@@ -2,7 +2,7 @@
 
 favoriteAnimal = innnput("What's your favorite animal?")
 
-if favoriteanimal.lower != "cat":
+if favoriteAnimal.lower != "cat":
     print("wow so you hate cats?"
     print("that's not very nice", bro.)
 
